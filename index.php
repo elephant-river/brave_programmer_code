@@ -32,8 +32,8 @@
         <div>
             <label>
                 Person A<br>
-                <input type="number" name="age_a" placeholder="Age of Date">
-                <input type="number" name="year_a" placeholder="Year of Date">
+                <input type="number" name="age_a" placeholder="Age of Death">
+                <input type="number" name="year_a" placeholder="Year of Death">
             </label>
         </div>
 
@@ -42,8 +42,8 @@
         <div>
             <label>
                 Person B<br>
-                <input type="number" name="age_b" placeholder="Age of Date">
-                <input type="number" name="year_b" placeholder="Year of Date">
+                <input type="number" name="age_b" placeholder="Age of Death">
+                <input type="number" name="year_b" placeholder="Year of Death">
             </label>
         </div>
 

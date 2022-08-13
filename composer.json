@@ -1,0 +1,8 @@
+{
+    "scripts" : {
+        "test": "./vendor/bin/phpunit test.php"
+    },
+    "require": {
+        "phpunit/phpunit": "^9.5"
+    }
+}
